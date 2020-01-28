@@ -168,7 +168,6 @@ Alive and running
 * `searx.laquadrature.net <https://searx.laquadrature.net>`__ (as `Hidden Service <http://searchb5a7tmimez.onion/>`__) - Issuer: Let's Encrypt `Verification <https://www.ssllabs.com/ssltest/analyze.html?d=searx.laquadrature.net>`__
 * `searx.lelux.fi <https://searx.lelux.fi/>`__ - Issuer: Let's Encrypt `Verification <https://www.ssllabs.com/ssltest/analyze.html?d=haku.lelux.fi>`__
 * `searx.lhorn.de <https://searx.lhorn.de/>`__ - Issuer: Let's Encrypt `Verification <https://www.ssllabs.com/ssltest/analyze.html?d=searx.lhorn.de&latest>`__
-* `searx.li <https://searx.li/>`__ - Issuer: Let's Encrypt `Verification <https://www.ssllabs.com/ssltest/analyze.html?d=searx.li>`__
 * `searx.libmail.eu <https://searx.libmail.eu/>`__ - Issuer: Let's Encrypt `Verification <https://www.ssllabs.com/ssltest/analyze.html?d=searx.libmail.eu/>`__
 * `searx.linux.pizza <https://searx.linux.pizza>`__ - Issuer: Let's Encrypt `Verification <https://www.ssllabs.com/ssltest/analyze.html?d=searx.linux.pizza>`__
 * `searx.lynnesbian.space <https://searx.lynnesbian.space/>`__ - Issuer: Let's Encrypt `Verification <https://www.ssllabs.com/ssltest/analyze.html?d=searx.lynnesbian.space>`__
